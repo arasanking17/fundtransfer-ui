@@ -46,7 +46,7 @@ class ViewBeneficiaryDetails extends Component {
                         {/* side heading display */}
                         {/* account summary display */}
                         <div className="col-sm-9">
-                            <br /><h3>Transcation History</h3><br />
+                            <br /><h3>Transaction History</h3><br />
                             <table className="table">
                                 <thead>
                                     <tr>
